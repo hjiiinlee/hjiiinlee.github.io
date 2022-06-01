@@ -10,7 +10,7 @@ baseurl: ""
 # url: "https://eliottvincent.github.io" # the base hostname & protocol for the site #default였음
 # url: "https://hjiiinlee.github.io/" # 
 url: ""
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile-pic.jpg  #일단은 여기 있는 파일명과 동일한 파일명을 사용해서 내 사진을 올려보자. 아예 다른 파일을 올리는 방법은 추후 고민 
 google_analytics: "UA-121636368-3"
 
 header:
