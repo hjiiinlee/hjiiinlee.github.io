@@ -177,3 +177,6 @@ profile_picture:
 </p> -->
 
 # You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+
+# 사진변경은 config와 index.md파일에서 둘 다 변경해야 적용됨
+
