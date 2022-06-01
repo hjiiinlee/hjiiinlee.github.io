@@ -1,7 +1,8 @@
 ---
-layout: work
+#원래 어떻게 되어있는지 보려면 work.md파일 확인하길 
+layout: Academic Backgrounds
 title: Academic Backgrounds
-slug: /work
+slug: /Academic Backgrounds
 items:
   - title: My Interest 1
     image:
