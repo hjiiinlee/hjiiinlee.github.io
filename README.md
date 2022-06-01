@@ -1,13 +1,4 @@
-# Git, add commit push
 
-# master branch 에서 가지치기 --> 가지 친 branch에서 작업 후 master branch로 다시 편입 
-
-# _config.yml 에서 내용 변경
-# 1. 수정 --> 저장 ctrl+s --> 왼쪽 창에서 + 눌러서 add --> 우측 위, 변경내용간략 설명 후 엔터 
-  # --> 왼쪽 창 제일 위에서 check버튼 누르기 (commit) 
-
-# bay
-# 마크다운 문법에 맞춰서 글 쓰면 됨 
 
 [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 [![Downloads](https://img.shields.io/gem/dt/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
@@ -154,3 +145,15 @@ gem build bay_jekyll_theme.gemspec
 ```sh
 gem push bay_jekyll_theme-1.x.x.gem
 ```
+
+
+###### Git, add commit push를 기억하자!
+
+######  master branch 에서 가지치기 --> 가지 친 branch에서 작업 후 master branch로 다시 편입 
+
+######  _config.yml 에서 내용 변경
+######  1. 수정 --> 저장 ctrl+s --> 왼쪽 창에서 + 눌러서 add --> 우측 위, 변경내용간략 설명 후 엔터 
+  ######  --> 왼쪽 창 제일 위에서 check버튼 누르기 (commit) 
+
+######  bay
+######  마크다운 문법에 맞춰서 글 쓰면 됨 

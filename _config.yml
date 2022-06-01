@@ -4,18 +4,22 @@
 title: Bay Jekyll Theme
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site #https://eliottvincent.github.io
-# url: "https://hjiiinlee.github.io/" # the base hostname & protocol for the site
+
+# baseurl: "/bay" # the subpath of the site  #default였음
+baseurl: ""
+# url: "https://eliottvincent.github.io" # the base hostname & protocol for the site #default였음
+# url: "https://hjiiinlee.github.io/" # 
+url: ""
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Academic backgrounds #Home
+    - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Academic Backgrounds #Work
+    - name: Publications 
+    - name: Projects #Blog
 
 footer:
   show_powered_by: true
@@ -23,23 +27,26 @@ footer:
     - name: Email
       value: hjiiin3@snu.ac.kr
       link: mailto:hjiiin3@snu.ac.kr
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      
+   # - name: WeChat
+   #   value: YourWeChatUsername
+   #   link: "#"
+   # 한 번에 # 붙이려면 ctrl + / 
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+    # - name: Twitter
+    #   link: http://twitter.com/YourTwitterUsername
+    #   username: "@YourTwitterUsername"
+    # - name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://www.linkedin.com/in/heejin-lee-b10bb9106    
+    # - name: GitHub
+    #   link: http://github.com/YourGitHubUsername
+    # - name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    # - name: RSS
+    #   link: /feed.xml
+# ORCID는 기본으로 들어가 있지 않아서 나중에 어떤 식으로 짜서 넣을지 고민해보기 ! 
 
 # Build settings
 markdown: kramdown
