@@ -157,3 +157,21 @@ gem push bay_jekyll_theme-1.x.x.gem
 
 ######  bay
 ######  마크다운 문법에 맞춰서 글 쓰면 됨 
+
+
+###### 참고) index.md 파일에 있던 default 내용 
+###### <!--부터 -->를 없애면 default내용임 
+<!-- layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
+---
+
+<p>
+  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+
+</p>
+
+<p>
+  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+</p> -->
