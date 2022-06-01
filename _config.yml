@@ -39,7 +39,11 @@ footer:
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: https://www.linkedin.com/in/heejin-lee-b10bb9106    
+      link: https://www.linkedin.com/in/heejin-lee-b10bb9106   
+    
+    - name: ORCiD
+      link: https://orcid.org/0000-0002-6811-6726   
+
     # - name: GitHub
     #   link: http://github.com/YourGitHubUsername
     # - name: Dribbble
