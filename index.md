@@ -6,7 +6,15 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome!
+
+  I am studying NUTRITIONAL EPIDEMIOLOGY at Seoul National University.
+  I am interested in the dietary factors and exploring how they are associated with chronic disease or mortaltiy.
+  My most recent interest is diet in a sustainable context.
+  
+  Thank you for visiting my page. Let's keep it sustainable and healthy!!
+
+
 </p>
 
 <p>
