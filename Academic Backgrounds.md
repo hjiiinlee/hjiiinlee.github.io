@@ -1,6 +1,6 @@
 ---
 #원래 어떻게 되어있는지 보려면 work.md파일 확인하길 
-layout: work
+layout: Work
 title: Academic Backgrounds
 slug: /Academic Backgrounds
 items:
