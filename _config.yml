@@ -20,6 +20,8 @@ header:
     - name: Academic Backgrounds #Work
     - name: Publications 
     - name: Projects #Blog
+    - name: Work Experience #Blog
+
 
 footer:
   show_powered_by: true
