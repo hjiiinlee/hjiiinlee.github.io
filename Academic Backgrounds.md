@@ -2,7 +2,7 @@
 #원래 어떻게 되어있는지 보려면 work.md파일 확인하길 
 layout: Work
 title: Academic Backgrounds
-slug: /Academic Backgrounds
+slug: /academic_backgrounds
 items:
   - title: My Interest 1
     image:

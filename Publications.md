@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-slug: /Publications
+slug: /publications/
 ---
 
 This is an example of a "Blog" page, displaying a list of posts.
