@@ -18,13 +18,13 @@ header:
     - name: Home
       slug: /
     - name: Academic Backgrounds #Work
-      slug: /academic_backgrounds
+      slug: /academic_backgrounds #원래 slug없었음
     - name: Publications 
-      slug: /publications
+      slug: /publications   #원래 slug없었음
     - name: Projects #Blog
-      slug: /projects
+      slug: /projects  #원래 slug없었음
     - name: Work Experience #Blog
-      slug: /work_experience
+      slug: /work_experience  #원래 slug없었음
 
 
 footer:
