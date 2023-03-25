@@ -18,9 +18,13 @@ header:
     - name: Home
       slug: /
     - name: Academic Backgrounds #Work
+      slug: /
     - name: Publications 
+      slug: /
     - name: Projects #Blog
+      slug: /
     - name: Work Experience #Blog
+      slug: /
 
 
 footer:
